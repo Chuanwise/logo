@@ -1,6 +1,10 @@
 # Chuanwise Logo - 椽子徽标
 
-```text
+![](./PNG/logo-block.png)
+
+## 开源协议
+
+```
 Copyright 2023 Chuanwise.
 
 Licensed under the Apache License, Version 2.0 (the "License");
